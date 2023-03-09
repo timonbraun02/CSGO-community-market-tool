@@ -68,7 +68,7 @@ try:
     # Title
     print("|-------------------------------|")
     print("|                               |")
-    print("|   CSGO-Comunity-Market Tool   |")
+    print("|   CSGO-Community-Market Tool   |")
     print("|                               |")
     print("|-------------------------------|")
 
