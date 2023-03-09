@@ -1,3 +1,4 @@
+## Documentation
 Currency is set to € by default.
 To change currency:
 - go to line 55
