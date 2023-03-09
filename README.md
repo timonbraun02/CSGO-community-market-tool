@@ -1,10 +1,10 @@
 # CSGO-community-market-tool
 
 This tool can help you to keep track of your investments in csgo cases on the steam community market by creating and maintaining excel sheets with current market prices.
-It will probably work for other items such as skins.
+It will probably work for other csgo items such as skins.
 The Example folder shows what a finished setup will look like.
-To use the tool, you will need the python script and the file in the Config folder in the same folder on you pc.
-The script will create all other excel sheets, when you run it or the first time.
+To use the tool, you will need the python script and the file from the Config folder in the same folder on you pc.
+The script will create all other excel sheets, when you run it for the first time.
 
 ## Quick-start guide
 
